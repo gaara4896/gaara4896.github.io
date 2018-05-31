@@ -1,9 +1,9 @@
 ---
 layout: blog
 title: Blog - Ng Wei Shyang
-description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+description: Blog posts by Ng Wei Shyang
 sitemap:
     priority: 1.0
-    lastmod: 2017-11-02
+    lastmod: 2018-05-31
     changefreq: weekly
 ---

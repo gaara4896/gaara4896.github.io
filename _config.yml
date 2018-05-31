@@ -1,7 +1,7 @@
 # Site
 title:              Ng Wei Shyang
-bio:                'Just another person'
-description:        "A Homo sapiens who are interested in life and death"
+bio:                'A.K.A Tony'
+description:        "Just another Homo sapiens who interested in life and death"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -61,4 +61,4 @@ jekyll-mentions:
     base_url: https://github.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old elements.html]

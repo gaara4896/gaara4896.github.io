@@ -1,7 +1,7 @@
 ---
 layout: null
 title: Home - Ng Wei Shyang
-description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+description: Home page for Ng Wei Shyang personal page
 sitemap:
 priority: 1.0
 lastmod: 2017-11-02
@@ -49,59 +49,91 @@ changefreq: weekly
 
 		<!-- Main -->
 		<div id="main">
-			<!-- Featured Post -->
+
+			<!-- About Me -->
 			<article class="post featured">
 				<header class="major">
-					<h2><a href="#">Massively is a versatile Jekyll theme</a></h2>
-					<p>With only a few edits, you can have a stunningly beautiful website <br />
-						nearly out of the box. Of course... you can always take it further <br />
-					and make it something even more amazing!</p>
+					<h2>Ng Wei Shyang</h2>
 				</header>
-				<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
-				<p>Regardless of your website's function, the homepage is what brings the user in.
-				If it's anything short of intriguing, captivating, or just plain cool, you're out of luck and you might deter some visitors.</p>
-				<p>Your homepage must clearly describe what your site is about.
-					Having engaging content will in this manner enable you to offer and it will make your customers more inclined to purchase from you. Content is a way to position your organization in the correct place for your clients to discover you.
-				</p>
-				<p>
-					In this manner, content in itself is a standout amongst the best promoting apparatuses in your whole advertising toolbox! Rather than making your content around your promoting technique, it's limitlessly more productive to fabricate your showcasing around your content.
-				</p>
+				<a class="image main"><img src="{{ "/images/ng_wei_shyang.JPG" | absolute_url }}" alt="Ng Wei Shyang" /></a>
+				<p>This is me. Yes, just another Homo sapiens. Although I am just another Homo sapiens, I am unique. </p>
+
+				<ul class="actions">
+					<li><a href="{{ "/about/" | absolute_url }}" class="button big">Know More About Me</a></li>
+				</ul>
 
 			</article>
 
-			<!-- Posts -->
-			<section class="posts">
-				{% for post in site.posts limit:3 %}
-				{% assign mod3 = forloop.index | modulo: 3 %}
-				<article>
-					<header>
-						<span class="date">{{ post.date | date_to_string }}</span>
-						<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-					</header>
-					<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-					<p>{{ post.excerpt }}</p>
-					<ul class="actions">
-						<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-					</ul>
-				</article>
-				{% if mod3 == 0 %}
-				<article>
-					<header>
-						<h2><a href="#">Sponsored</a></h2>
-					</header>
+			<!-- Portfolio -->
 
-				</article>
-				{% endif %}
-				{% endfor %}
+			<article class="post featured">
+				<header class="major">
+					<h2>My Works</h2>
+				</header>
 
-			</section>
+				<div class="box alt">
+					<div class="row 50% uniform">
+						<div class="4u"><span class="image fit">
 
-			<!-- Footer -->
-			<footer>
+							{% assign img1 = "/images/icheckin.png" | absolute_url %}
+
+							{% include portfolio-card.html img_src=img1 source_src="https://github.com/gaara4896/iCheckin-Android" name="iCheckin" description="Check in multiple crudential with one click" %}
+
+						</span></div>
+						<div class="4u"><span class="image fit">
+
+							{% assign img1 = "/images/pygame_workshop.png" | absolute_url %}
+
+							{% include portfolio-card.html img_src=img1 source_src="https://github.com/gaara4896/GameWorkshop-PyGame" name="PyGame Workshop" description="Teaching material for PyGame workshop" %}
+
+						</span></div>
+						<div class="4u"><span class="image fit">
+
+							{% assign img1 = "/images/scala_multiplayer_game.png" | absolute_url %}
+
+							{% include portfolio-card.html img_src=img1 source_src="https://github.com/gaara4896/Distributed-libGDX-2d-game" name="Retro Multiplayer Game" description="Multiplayer game written with Scala and LibGDX" %}
+
+						</span></div>
+					</div>
+				</div>
+
 				<ul class="actions">
-					<li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+					<li><a href="{{ "/portfolio/" | absolute_url }}" class="button big">Know more about my work</a></li>
 				</ul>
-			</footer>
+			</article>
+
+			<!-- Blog -->
+
+			<article class="post featured">
+				<header class="major">
+					<h2>Latest</h2>
+				</header>
+
+				<div class="box alt">
+					<div class="row 50% uniform">
+						{% for post in site.posts %}
+							<div class="4u">
+								<header>
+									<span class="date">{{ post.date | date_to_string }}</span>
+									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+								</header>
+								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+								<p>{{ post.excerpt }}</p>
+								<ul class="actions">
+									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+								</ul>
+							</div>
+							{% if forloop.index >= 2 %}
+								{% break %}
+							{% endif %}
+						{% endfor %}
+					</div>
+				</div>
+
+				<ul class="actions">
+					<li><a href="{{ "/blog/" | absolute_url }}" class="button big">More Blog Post</a></li>
+				</ul>
+			</article>
 
 		</div>
 
