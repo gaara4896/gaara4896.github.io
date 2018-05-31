@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: portfolio
 title: Portfolio - Ng Wei Shyang
-description: Portfolio of Ng Wei Shyang
+description: Postfolio of Ng Wei Shyang
 sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
+    priority: 1.0
+    lastmod: 2018-05-31
     changefreq: weekly
 ---

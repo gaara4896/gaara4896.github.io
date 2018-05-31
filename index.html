@@ -73,21 +73,21 @@ changefreq: weekly
 
 				<div class="box alt">
 					<div class="row 50% uniform">
-						<div class="4u"><span class="image fit">
+						<div class="custom-homepage-portfolio"><span class="image fit">
 
 							{% assign img1 = "/images/icheckin.png" | absolute_url %}
 
 							{% include portfolio-card.html img_src=img1 source_src="https://github.com/gaara4896/iCheckin-Android" name="iCheckin" description="Check in multiple crudential with one click" %}
 
 						</span></div>
-						<div class="4u"><span class="image fit">
+						<div class="custom-homepage-portfolio"><span class="image fit">
 
 							{% assign img1 = "/images/pygame_workshop.png" | absolute_url %}
 
 							{% include portfolio-card.html img_src=img1 source_src="https://github.com/gaara4896/GameWorkshop-PyGame" name="PyGame Workshop" description="Teaching material for PyGame workshop" %}
 
 						</span></div>
-						<div class="4u"><span class="image fit">
+						<div class="custom-homepage-portfolio"><span class="image fit">
 
 							{% assign img1 = "/images/scala_multiplayer_game.png" | absolute_url %}
 
@@ -112,18 +112,18 @@ changefreq: weekly
 				<div class="box alt">
 					<div class="row 50% uniform">
 						{% for post in site.posts %}
-							<div class="4u">
+							<div class="custom-homepage-blog">
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
 									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 								</header>
 								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-								<p>{{ post.excerpt }}</p>
+								<p style="text-align: center;">{{ post.excerpt }}</p>
 								<ul class="actions">
 									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
 								</ul>
 							</div>
-							{% if forloop.index >= 2 %}
+							{% if forloop.index >= 3 %}
 								{% break %}
 							{% endif %}
 						{% endfor %}
