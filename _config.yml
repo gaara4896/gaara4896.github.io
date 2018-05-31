@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Ng Wei Shyang
+bio:                'Just another person'
+description:        "A Homo sapiens who are interested in life and death"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -35,15 +35,16 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            TonyNgWS97
+facebook:           gaara4896
+instagram:          nws1997
+github:             gaara4896
+linkedin:           in/tony-ng-wei-shyang-357856134
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Selangor, MY
+phone:              +60 17-215 8366
+email:              tonyngws97@gmail.com
 
 # Gems
 gems:
