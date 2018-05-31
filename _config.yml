@@ -1,7 +1,7 @@
 # Site
 title:              Ng Wei Shyang
 bio:                'A.K.A Tony'
-description:        "Just another Homo sapiens who interested in life and death"
+description:        "Just another Homo sapiens who are interested in life and death"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
