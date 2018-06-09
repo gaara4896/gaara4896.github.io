@@ -13,7 +13,7 @@ sitemap:
 
 My name is Ng Wei Shyang and I am a Homo sapiens who born and live in Selangor, Malaysia. People call me Tony, and you can call me Tony too. If anyone tell you that I am `gaara` or `gaara4896`, they confuse username with name. 
 
-I am a programmer by profession. I am studying computer science in Sunway University and I am also a part of [Sunway Tech Club](https://www.facebook.com/sunwaytechclub/). My focuses are backend, Android and game development. Project that I am involved with can be found in [portfolio]({{ "/portfolio/" | absolute_url }}) or [Github](https://github.com/gaara4896). 
+I am a programmer by profession. I'm studying computer science in Sunway University and I am also a part of [Sunway Tech Club](https://www.facebook.com/sunwaytechclub/). My focuses are backend, Android and game development. Project that I involved with can be found in [portfolio]({{ "/portfolio/" | absolute_url }}) or [Github](https://github.com/gaara4896). 
 
 From times to times, I lead workshop that host by [Sunway Tech Club](https://www.facebook.com/sunwaytechclub/). Some of the workshop that I had lead before are Android Workshop and PyGame workshop. I am also helping out in a lot of other workshop, which include WebLaunch 2018 and Git & Github Workshop. 
 
@@ -25,7 +25,7 @@ I am always open to freelance project opportunity. If you have any freelance pro
 
 I love philosophy. I am interested in different category of philosophy; from general philosophy, political philosophy, ethics to philosophy of life. However, I am not a practitioner of any branch of philosophy, at least not yet. 
 
-Despite I am not a practitioner of specific branch of philosophy, I am a practitioner of my own philosophy. I take what I think right from any branch of philosophy and denied otherwise. For instance, I am agree with utilitarianism in making decision based on greatest good to greatest amount of people, but I disagree with looking people at collective way and seeing them as just a container of happiness. I agree with stoicism in embracing suffering as part of life; not for the reason of easier in attaining pleasure; but for the reason as a chance of achieving greater version of ourself. 
+Despite I am not a practitioner of specific branch of philosophy, I am a practitioner of my own philosophy. I take what I think right from any branch of philosophy and denied otherwise. For instance, I agree with utilitarianism in making decision based on greatest good to greatest amount of people, but I disagree with looking people at collective way and seeing them as just a container of happiness. I agree with stoicism in embracing suffering as part of life; not for the reason of easier in attaining pleasure; but for the reason as a chance of achieving greater version of ourself. 
 
 ### Hobby
 
