@@ -8,7 +8,7 @@ image: "/images/post/2018-07/1984.jpg"
 
 It's been few weeks, perhaps months since I finish reading this book. It is one of the most facinating book that I had ever came across. I wanted to write an analysis about this book for quite some time, but had been occupied with a lot of things. Finally, I get to take a breath from all those things and decided to write this review. 
 
-1984 is one of the best selling classic fiction written by George Orwell, first published in 1949. In the novel, George Orwell discuss about a lot of facinating idea that would jusut blow off our mind, thinking that why we never thought of it before. We will be discussing all about these idea. 
+1984 is one of the best selling classic fiction written by George Orwell, first published in 1949. In the novel, George Orwell discuss about a lot of facinating idea that would jusut blow off our mind, thinking that why we never thought of it before. 
 
 Before I start writing this blog, I had lay out a list of idea that I want to discuss. However, after I start writing about social hierarchy, I just can't stop and it end up as a stand alone blog. There is little to no spoiler in this blog, so do enjoy it even if you had yet read the book!  
 
