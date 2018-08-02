@@ -73,29 +73,26 @@ changefreq: weekly
 
 				<div class="box alt">
 					<div class="row 50% uniform">
-						<!--
-						<div class="custom-homepage-portfolio"><span class="image fit">
+						{% for portfolio in site.data.portfolios %}
 
-							{% assign img1 = "/images/icheckin.png" | absolute_url %}
-
-							{% include portfolio-card.html img_src=img1 source_src="https://github.com/gaara4896/iCheckin-Android" name="iCheckin" description="Check in multiple crudential with one click" %}
-
-						</span></div>
-						-->
-						<div class="custom-homepage-portfolio"><span class="image fit">
-
-							{% assign img1 = "/images/pygame_workshop.png" | absolute_url %}
-
-							{% include portfolio-card.html img_src=img1 source_src="https://github.com/gaara4896/GameWorkshop-PyGame" name="PyGame Workshop" description="Teaching material for PyGame workshop" %}
-
-						</span></div>
-						<div class="custom-homepage-portfolio"><span class="image fit">
-
-							{% assign img1 = "/images/scala_multiplayer_game.png" | absolute_url %}
-
-							{% include portfolio-card.html img_src=img1 source_src="https://github.com/gaara4896/Distributed-libGDX-2d-game" name="Retro Multiplayer Game" description="Multiplayer game written with Scala and LibGDX" %}
-
-						</span></div>
+							<div class="custom-homepage-portfolio"><span class="image fit">
+								<div class="portfolio">
+									<img src="{{ portfolio.image_url }}" alt="" class="portfolio-image" />
+									<div class="portfolio-middle">
+										<header>
+											<h4>{{ portfolio.name }}</h4>
+											<p style="text-align: center;">{{ portfolio.description }}</p>
+										</header>
+										<ul class="actions">
+											<li><a href="{{ portfolio.source_url }}" class="button special small">View Source</a></li>
+										</ul>
+									</div>
+								</div>
+							</span></div>
+							{% if forloop.index >= 3 %}
+								{% break %}
+							{% endif %}
+						{% endfor %}
 					</div>
 				</div>
 
