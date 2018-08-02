@@ -50,6 +50,16 @@
      </url>
   
     <url>
+      <loc>/creative/</loc>
+       <lastmod>2018-08-02T00:00:00+08:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
       <loc>/elements/</loc>
        <lastmod>2017-11-02T00:00:00+08:00</lastmod>
       
