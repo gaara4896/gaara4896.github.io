@@ -9,11 +9,11 @@ sitemap:
 ---
 ## Who I Am
 
-<span class="image left"><img src="{{ "/images/ng_wei_shyang.JPG" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/ng_wei_shyang.JPG" | relative_url }}" alt="" /></span>
 
 My name is Ng Wei Shyang and I am a Homo sapiens who born and live in Selangor, Malaysia. People call me Tony, and you can call me Tony too. If anyone tell you that I am `gaara` or `gaara4896`, they confuse username with name. 
 
-I am a programmer by profession. I'm studying computer science in Sunway University and I am also a part of [Sunway Tech Club](https://www.facebook.com/sunwaytechclub/). My focuses are backend, Android and game development. Project that I involved with can be found in [portfolio]({{ "/portfolio/" | absolute_url }}) or [Github](https://github.com/gaara4896). 
+I am a programmer by profession. I'm studying computer science in Sunway University and I am also a part of [Sunway Tech Club](https://www.facebook.com/sunwaytechclub/). My focuses are backend, Android and game development. Project that I involved with can be found in [portfolio]({{ "/portfolio/" | relative_url }}) or [Github](https://github.com/gaara4896). 
 
 From times to times, I lead workshop that host by [Sunway Tech Club](https://www.facebook.com/sunwaytechclub/). Some of the workshop that I had lead before are Android Workshop and PyGame workshop. I am also helping out in a lot of other workshop, which include WebLaunch 2018 and Git & Github Workshop. 
 
@@ -21,7 +21,7 @@ I am always open to freelance project opportunity. If you have any freelance pro
 
 ### Philosophy
 
-<span class="image right"><img src="{{ "/images/about/philosophy.jpg" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/about/philosophy.jpg" | relative_url }}" alt="" /></span>
 
 I love philosophy. I am interested in different category of philosophy; from general philosophy, political philosophy, ethics to philosophy of life. However, I am not a practitioner of any branch of philosophy, at least not yet. 
 
@@ -29,7 +29,7 @@ Despite I am not a practitioner of specific branch of philosophy, I am a practit
 
 ### Hobby
 
-<span class="image left"><img src="{{ "/images/about/hobby.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/about/hobby.jpg" | relative_url }}" alt="" /></span>
 
 I have a tons of hobby. 
 

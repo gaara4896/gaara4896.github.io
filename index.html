@@ -37,7 +37,7 @@ changefreq: weekly
 
 		<!-- Header -->
 		<header id="header">
-			<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+			<a href="{{ "/" | relative_url }}" class="logo">{{site.title}}</a>
 		</header>
 
 		<!-- Nav -->
@@ -55,11 +55,11 @@ changefreq: weekly
 				<header class="major">
 					<h2>Ng Wei Shyang</h2>
 				</header>
-				<span class="image fit"><img src="{{ "/images/ng_wei_shyang.JPG" | absolute_url }}" alt="Ng Wei Shyang" /></span>
+				<span class="image fit"><img src="{{ "/images/ng_wei_shyang.JPG" | relative_url }}" alt="Ng Wei Shyang" /></span>
 				<p>This is me. Yes, just another Homo sapiens. Although I am just another Homo sapiens, I am unique. </p>
 
 				<ul class="actions">
-					<li><a href="{{ "/about/" | absolute_url }}" class="button big">Know More About Me</a></li>
+					<li><a href="{{ "/about/" | relative_url }}" class="button big">Know More About Me</a></li>
 				</ul>
 
 			</article>
@@ -97,7 +97,7 @@ changefreq: weekly
 				</div>
 
 				<ul class="actions">
-					<li><a href="{{ "/portfolio/" | absolute_url }}" class="button big">Know more about my work</a></li>
+					<li><a href="{{ "/portfolio/" | relative_url }}" class="button big">Know more about my work</a></li>
 				</ul>
 			</article>
 
@@ -114,12 +114,12 @@ changefreq: weekly
 							<div class="custom-homepage-blog">
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+									<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 								</header>
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+								<a href="{{ post.url | relative_url }}" class="image fit"><img src="{{ post.image | relative_url }}" alt="" /></a>
 								<p style="text-align: center;">{{ post.excerpt }}</p>
 								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+									<li><a href="{{ post.url | relative_url }}" class="button">Full Story</a></li>
 								</ul>
 							</div>
 							{% if forloop.index >= 3 %}
@@ -130,7 +130,7 @@ changefreq: weekly
 				</div>
 
 				<ul class="actions">
-					<li><a href="{{ "/blog/" | absolute_url }}" class="button big">More Blog Post</a></li>
+					<li><a href="{{ "/blog/" | relative_url }}" class="button big">More Blog Post</a></li>
 				</ul>
 			</article>
 

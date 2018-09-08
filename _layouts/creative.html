@@ -17,7 +17,7 @@
 
 		<!-- Header -->
 		<header id="header">
-			<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+			<a href="{{ "/" | relative_url }}" class="logo">{{site.title}}</a>
 		</header>
 
 
@@ -36,7 +36,7 @@
 				{% for creative in site.data.creatives %}
 
 				<article class="creative">
-					<img class="creative-image" src={{ creative.image_url | absolute_url }} alt="" class="portfolio-image" />
+					<img class="creative-image" src={{ creative.image_url | relative_url }} alt="" class="portfolio-image" />
 					<div class="creative-middle">
 						<header>
 							<h4>{{ creative.name }}</h4>

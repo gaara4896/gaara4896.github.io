@@ -18,17 +18,17 @@ There are so many questions we need to ask before we are even able to answer tha
 
 The whole movie of Mr. Nobody surrounds with the child, Nemo Nobody, at age 9, unable to make a choice between following his dad or mom after they divorce. He then thinks about what could happen if he chooses any one of the choices, and it leads to many different paths of life. 
 
-<span class="image right"><img src="{{ "/images/post/2018-09/train-station-choice.jpg" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/post/2018-09/train-station-choice.jpg" | relative_url }}" alt="" /></span>
 
 In the beginning, it is only between choosing following his father or mother. If he chooses to follow his mother, he will meet a girl called Anna. Various choices he made will lead him to be together with Anna or not. However, if he chooses to follow his father, he will meet Jean and Elise. Again, various choices he made after that can lead him to be together with either one of them, or neither both. 
 
-<span class="image left"><img src="{{ "/images/post/2018-09/wedding-choices.png" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/post/2018-09/wedding-choices.png" | relative_url }}" alt="" /></span>
 
 There are a lot of paths being shown in the movie, each is the results of the choices he made. The choices range from something as big as to date Jean or not to date after being rejected by Elise, to as small as confessing his love to Elise 10 seconds earlier or later. This movie shows the effect of the butterfly effect, which is a small change can lead to tremendous differences in the future. 
 
 <blockquote>A single snowflake can bend the leaf of the bamboo</blockquote>
 
-<span class="image right"><img src="{{ "/images/post/2018-09/boiling-eggs.png" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/post/2018-09/boiling-eggs.png" | relative_url }}" alt="" /></span>
 
 In the movie, the butterfly effect even extends to the choices made by others. At one part of the movie, a factory worker decide to skip work, went home, and boil some eggs. The process of boiling eggs creates extra water vapor in the air, which lead to the rain few days after factory worker incident, exactly at the moment after Nemo receive a card with Anna's phone number on it, which wash away the ink on the card, causing him to lost the last chance to see Anna again. 
 
@@ -36,7 +36,7 @@ Every choices, one that you made yesterday night for what you going to have for 
 
 We make choices every second of our life, and every single choice we made can result in a completely different outcome. A small mistake might destroy our life, so does a right choice. Beyond that, some of the choices are out of our control too, and these choices that made by someone else could even potentially ruin our day. If so, how can we even make sure that we are on the right path? 
 
-<span class="image left"><img src="{{ "/images/post/2018-09/chess.jpeg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/post/2018-09/chess.jpeg" | relative_url }}" alt="" /></span>
 
 Life choices are like chess. In the beginning, we are all not good at playing chess. We often overlook the strategy of the opponent and lost the game. However, as we play more chess, the better we get at playing chess. The same goes for making life choices. As we grow older, we are better in making the right choices in achieving our goal at that time. Despite that, we might still lose a chess game. There are always people who are more experience than us. The same goes for making life choices, there are just too many variables that we can take into account. 
 
@@ -48,7 +48,7 @@ Winning the match is not in our total control too. Facing the same opponent, the
 
 <blockquote>"In chess, it's called Zugzwang... when the only viable move... is not to move." — Nemo Nobody</blockquote>
 
-<span class="image right"><img src="{{ "/images/post/2018-09/zugzwang.jpg" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/post/2018-09/zugzwang.jpg" | relative_url }}" alt="" /></span>
 
 According to chess rules, we have to make a move whenever it is our turn to make a move. There are times when Zugzwang happens, where the move that we can have is either disadvantage to us or lead us to lose the game. In this situation, choices do exists, but only a limited set of choices, which eventually lead us to the negative outcome of the situation. Facing that situation, no matter how calm we are in that situation, and how aware we are that we had made the best move which we can have in that given situation, we still have to make a choice. 
 
