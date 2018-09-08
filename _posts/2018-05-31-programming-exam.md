@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Programming Exam???"
+title:  "[Opinion] Programming Exam???"
 date:   2018-05-31
 excerpt: "Things that gone wrong for most programming exam"
 image: "/images/post/2018-05/programming.jpg"
