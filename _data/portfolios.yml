@@ -3,12 +3,22 @@
 #   image_url: /images/portfolio/icheckin.png
 #   source: https://github.com/gaara4896/iCheckin-Android
 
+- name: Distributed Retro Game
+  description: Multiplayer game written with Scala and LibGDX
+  image_url: /images/portfolio/scala_multiplayer_game.png
+  source_url: https://github.com/gaara4896/Distributed-libGDX-2d-game
+
+- name: SAS x STC Workshop
+  description: Teaching material for scrapping and analytics
+  image_url: /images/portfolio/wonder_of_analytics.png
+  source_url: https://github.com/gaara4896/2018-SASxSTCWorkshop
+
 - name: PyGame Workshop
   description: Teaching material for PyGame workshop
   image_url: /images/portfolio/pygame_workshop.png
   source: https://github.com/gaara4896/GameWorkshop-PyGame
 
-- name: Retro Multiplayer GameWorkshop-PyGame
-  description: Multiplayer game written with Scala and LibGDX
-  image_url: /images/portfolio/scala_multiplayer_game.png
-  source_url: https://github.com/gaara4896/Distributed-libGDX-2d-game
+- name: Makerspace Traffic Counter
+  description: Tracking traffic information
+  image_url: /images/portfolio/makerspace_traffic_detector.png
+  source_url: https://github.com/gaara4896/Makerspace-Traffic-Detector
