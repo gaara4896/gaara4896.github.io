@@ -4486,6 +4486,8 @@
 
 	.portfolio {
 		position: relative;
+		border: 1px solid;
+		border-color: #CCC;
 	}
 
 	.portfolio-image {
