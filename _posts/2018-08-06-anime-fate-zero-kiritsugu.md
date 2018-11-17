@@ -3,7 +3,7 @@ layout: post
 title:  "[Anime] Fate/Zero: Emiya Kiritsugu"
 date:   2018-08-06
 excerpt: "Hey, Kerry. What do you want to be when you grow up?"
-image: "/images/post/2018-08/kerry_shirley.png"
+image: "/images/post/2018-08/kerry-shirley.png"
 ---
 
 I had finished this anime a few weeks ago. This is my second time watching this anime, the first during a few years ago. The plot written by Gen Urobuchi, animation animated by Ufotable, the song by Kalafina and composed by Yuki Kajiura, and everything else combined, is what makes this anime so great. 
@@ -22,19 +22,19 @@ Imagine yourself, growing up with a family of 2, your father and you. He is a ma
 
 Your father had just moved to a new village. You make a few new friends. There are one within them, who are the opposite sex of yours and have a special place in your heart. You had a crush on her, and her existence is like a heavenly angel to you. 
 
-<span class="image left"><img src="{{ "/images/post/2018-08/stay_with_you_until_then.png" | relative_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/post/2018-08/stay-with-you-until-then.png" | relative_url }}" alt="" /></span>
 
 Seemingly, your future looks super bright. You are going to continue your father research, and the result of the research is going to bring tremendous blessed to humanity. You also had the crush of yours, telling you that, she is going to watch you grew up. Everything seems good, not until the day, the day on which you woke up, being told by your father, not to go to the village. 
 
 ### It wasn't suppose to be like this
 
-<span class="image right"><img src="{{ "/images/post/2018-08/shirley_zombie.jpg" | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/post/2018-08/shirley-zombie.jpg" | relative_url }}" alt="" /></span>
 
 It is this day, which you found your crush, turning into a zombie, after consuming a drug produced by your father research, which supposedly brings nothing but blessed to humanity. Isn't your father research supposedly bring blessing to humanity? Why is your crush turning into a zombie? Wasn't she supposed to stay with you until you grew up? 
 
 In the midst of confusion, you run to the church and look for the priest. In the meantime, your crush had the zombie virus spread to the other villager. In a matter of seconds, the village is destroyed by the mage association and church executor. Fire burning all around the village. 
 
-<span class="image left"><img src="{{ "/images/post/2018-08/burning_village.png" | relative_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/post/2018-08/burning-village.png" | relative_url }}" alt="" /></span>
 
 The ground which had your footstep on it, the coconut tree which you used to climb, the riverside which where your memory of you and your friend comes from, the church which you go to when you have trouble, and the tiny house, a few houses left to the church, right beside the coconut tree, where your crush used to live, had all turn into nothing. 
 
@@ -48,7 +48,7 @@ You soon adopted by a woman who is like a freelancer to the mage association. Sh
 
 You work very hard, killing the people who are like your father, uses magic to bring harm to people. You keep doing it, believing that, by following this path, you can avoid all the tragedies that happen to you. 
 
-<span class="image right"><img src="{{ "/images/post/2018-08/kiritsugu_shooting.jpg" | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/post/2018-08/kiritsugu-shooting.jpg" | relative_url }}" alt="" /></span>
 
 Soon, you realize, that type of people can be seen everywhere. The path that you follow,  can only do so little, and not more than that. Following your path, you also end up killing your mother (the freelancer of mage association), knowing that it is the correct thing to do, in order to avoid bringing misery to the people in the airport she is landing. 
 
@@ -106,7 +106,7 @@ Finally, you had attained the holy grail. Inside the holy grail...
 	Grail: "The deed you try so hard to accomplish and fail to do on your own, can be accomplished in a scale beyond the power of any man. If that is not a miracle, what is?"
 </blockquote>
 
-<span class="image left"><img src="{{ "/images/post/2018-08/kiritsugu_despair.png" | relative_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/post/2018-08/kiritsugu-despair.png" | relative_url }}" alt="" /></span>
 
 At this moment, you realize the grail is not omnipotent wish granting machine, and it is no miracle. You reject the grail simply because the cost is bigger than the reward. It is also at this moment, you realize, what you had been doing is flawed. The calculation is correct, except it is wrong. To save 200 people, you had sacrifice 300 people. 
 
@@ -168,7 +168,7 @@ With that in mind, can we settle with just utilitarianism? Utilitarianism, not o
 
 This is the contradiction appear within Gen Urobuchi. As much as he thinks it is correct, he too, think it is wrong. Accepting utilitarianism, is to accept the good intention of them to do good to the greatest number of people in the first place. Adopting utilitarianism, however, would result in nothing but misery to one who adopts it. Your inaction that causes by your emotion, is nothing but the origin of the good intention of one. 
 
-<span class="image left"><img src="{{ "/images/post/2018-08/illya_pointed_with_gun.png" | relative_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/post/2018-08/illya-pointed-with-gun.png" | relative_url }}" alt="" /></span>
 
 The child, 6 years old, female, long hair, big eyes, sitting anxiously in front of you, waiting for you, who holding a 15cm long knife, to stab the knife into the soft stomach of her, pulling it out, hearing her screaming, and stabbing it again, into the other part of the stomach, again pulling it out, and watching the blood coming out from the eye and mouth of her, soon losing any energy to scream anymore, and struggle on the floor for other minutes before dying. 
 

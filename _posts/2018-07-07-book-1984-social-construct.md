@@ -32,15 +32,15 @@ Proletariant are made up of 85% of the total population. While inner party and o
 
 Does this class hierarchy sound familiar? Yes! The class hierarchy in Oceania resemblance the social status in the world that we are living in. In the world that we are living in, top 1% wealthiest of the population posses 40% of the wealth while bottom 80% posses only 7% of the wealth. 
 
-<span class="image right"><img src="{{ "/images/post/2018-07/rich_lifestyle.jpg" | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/post/2018-07/rich-lifestyle.jpg" | relative_url }}" alt="" /></span>
 
 The inner party resemblance the top wealthiest population in our world. They have access to the most luxurious lifestyle that most people can't afford. They have the biggest house, most expensive luxury car, best quality food, etc. Some of them even have private yachts and helicopter. These inner party are some of the most wealthy and powerful people on earth. They are the politicians, top management of corporate, investor, etc. Most of the power are aggregate in these group of people, and their decision can affect a lot of people, including you without you knowing it. 
 
-<span class="image left"><img src="{{ "/images/post/2018-07/middle_class.jpg" | relative_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/post/2018-07/middle-class.jpg" | relative_url }}" alt="" /></span>
 
 Meanwhile, the outer party resemblance the middle class. The middle class has decent job with decent income, just like the outer party who working for the party in one of the ministry. While most of the middle class can afford material thing to a certain extend, they are often in debt. Because of it, they will automatically work hard in order to pay off their debt. While the outer party drive by the fear of getting capture by the ruling party, the middle class drive by the fear of losing the material thing that they posses. They are like the slave or prisoner of the material world. 
 
-<span class="image right"><img src="{{ "/images/post/2018-07/office_cubicles.jpg" | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/post/2018-07/office-cubicles.jpg" | relative_url }}" alt="" /></span>
 
 The proletariant resemblance the lower income population. Most of them have job, but not good enough to afford extra luxury like top and middle class do. Majority of them cannot afford buying a house. Many of them rent house and drive old car or take public transport. They work from 9 to 5 every week day like a machine. If there are something that driving them forward, it would be the false hope that given to them. These false hope are social construct that are designed to distract them from wanting to escape from the reality. False hope such that able to becoming the top wealthy person by sacrificing a part of their little earning. False hope such that giving them the short term sensual pleasure so they are able to withstand the suffering. False hope such that helping them to escape from the reality. They come in a form of lottery ticket, gambling, football, alcohol, sex, etc. Eventually, they are like a hamster on a wheel that trap in a cage. 
 

@@ -3,7 +3,7 @@ layout: post
 title:  "[Game] Saya no Uta: Aesthetic"
 date:   2018-08-18
 excerpt: "Regarding to aesthetic - objective or subjective?"
-image: "/images/post/2018-08/saya_no_uta.jpg"
+image: "/images/post/2018-08/saya-no-uta.jpg"
 ---
 
 In the last post, we had already discussed one of the works of Gen Urobuchi: Fate Zero. Today, we are going to discuss yet another work of Gen Urobuchi, which is Saya no Uta. 
