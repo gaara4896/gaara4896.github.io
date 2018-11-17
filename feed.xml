@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2018-11-09T21:52:55+08:00</updated><id>http://0.0.0.0:4000/</id><title type="html">Ng Wei Shyang</title><subtitle>Just another Homo sapiens who are interested in life and death</subtitle><entry><title type="html">[Movie] Mr. Nobody: Choices</title><link href="http://0.0.0.0:4000/blog/mr-nobody-choices/" rel="alternate" type="text/html" title="[Movie] Mr. Nobody: Choices" /><published>2018-09-08T00:00:00+08:00</published><updated>2018-09-08T00:00:00+08:00</updated><id>http://0.0.0.0:4000/blog/mr-nobody-choices</id><content type="html" xml:base="http://0.0.0.0:4000/blog/mr-nobody-choices/">&lt;p&gt;Let me start this blog by asking a question:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-17T17:45:30+08:00</updated><id>/</id><title type="html">Ng Wei Shyang</title><subtitle>Just another Homo sapiens who are interested in life and death</subtitle><entry><title type="html">[Opinion] FA / TA: Investment</title><link href="/blog/investment-fa-or-ta/" rel="alternate" type="text/html" title="[Opinion] FA / TA: Investment" /><published>2018-11-16T00:00:00+08:00</published><updated>2018-11-16T00:00:00+08:00</updated><id>/blog/investment-fa-or-ta</id><content type="html" xml:base="/blog/investment-fa-or-ta/">&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;, Before we start this blog, I have to mention that I am not an investment professional or expert, nor do I have CFA or any other equivalent financial analysis certification.&lt;/p&gt;
+
+&lt;p&gt;I had been investing in the stock market for more than 3 years. For the past 3 years, the method I use to analyze stock is fundamental analysis. Before I start investing, I had been always interested in learning how to invest money because I find the idea of using money generating more money is attracting. So, when I get into college, I join a club in my university, call SBIS (Sunway Business and Investment Club). After that, I start to attend different investment talk and workshop. From all these workshops, I learn a various method of analyzing investment instrument, primarily for the stock market. All of these methods of investing can be categorized into 2 category, which is fundamental analysis and technical analysis.&lt;/p&gt;
+
+&lt;h2 id=&quot;fundamental-analysis&quot;&gt;Fundamental Analysis&lt;/h2&gt;
+
+&lt;blockquote&gt;Fundamental analysis is a method of evaluating a security in an attempt to assess its intrinsic value, by examining related economic, financial, and other qualitative and quantitative factors.&lt;/blockquote&gt;
+
+&lt;p&gt;Basically, fundamental analysis is the method of analyzing any investment instrument based on the underlying value of it. For stock market particularly, there are 2 approaches, top-down and bottom-up approach. A top-down approach is the method of filtering company from the strength of the economy which the country based on, then filtering with the sector performance, and finally each individual company. , however, analyze based on each individual company. In a bottom-up approach, country economy strength and sector strength lesser being taken into consideration. Example of such value is EBITA, P/E ratio, market capitalization, yield, ROE in bottom-up approach or GDP, unemployed rate, the interest rate for the top-down approach.&lt;/p&gt;
+
+&lt;p&gt;Benjamin Graham, author of “The Intelligent Investor”, is the father of value investing. Warran Buffet, third wealthiest person in the world (as of the writing time), gain his wealth from the method created by Benjamin Grahham. Fundamentally, value investing analyze based on fundamental analysis, which is looking at the intrinsic value of a stock, hence the name “value” investing.&lt;/p&gt;
+
+&lt;blockquote&gt;&quot;In the short run, the market is a voting machine but in the long run, it is a weighing machine.&quot; — Benjamin Graham&lt;/blockquote&gt;
+
+&lt;p&gt;In value investing, they do not care about short-term volatility. They believe that in long run, investment instrument with high intrinsic value will automatically raise in price, and hence generating profit to the investor. Therefore, value investing only invest in an investment instrument that has a higher intrinsic value than the offering price. Let’s make an analogy that resembling value investing.&lt;/p&gt;
+
+&lt;p&gt;Suppose you walk in a street, and there is an auction ongoing. In the auction, there are 2 products that are open to bidding. Suppose below is the technical information of the 2 product and the current bid while you reach there.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Product A&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Product B&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Product Type&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Wallet&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Wallet&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Contains object&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;RM200&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;RM1000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Current highest bid&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;RM300&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;RM300&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Number of people in the audience&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;50&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Number of people wanting to bid&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;According to value investing, you should always bid for product B because the intrinsic value of the product B (RM1000) is higher than the market price. Well, you may say that any reasonable people would do so, but what if it is not so straightforward, instead of money, it’s item with values inside, and it is something that only when you look deep into it, you can know the intrinsic value, then you will start worrying about the resell value of the product (since it is less popular) and buying the first object seems like getting you something that everyone wants.&lt;/p&gt;
+
+&lt;p&gt;In the real world, product B does exists in the past but no longer exists today due to easy attain of information. However, investment is not so straightforward in the real world. Meanwhile, a company has assets, company generate more assets over time, which it makes thing more complicated in investing. Suppose a wallet contains RM300, and will generate RM10 per month, cost at RM500, it is justified to buy according to value investing (considering you will start making a profit on top of your initial investment after 20 months).&lt;/p&gt;
+
+&lt;p&gt;But, product A does exist, and value investing is not just about investing in product B, but never investing in product A. A example of product A in real life will be Snap Inc, also known as Snapchat. Before Snapchat IPO, it has a valuation of 3 billion. Yes, 3 billion, while still getting 0 profit and do not have a revenue model! After IPO, during the first day of trading, it’s market capitalization soar to almost 20 billion. To put it in simpler perspective, if you are buying the whole company, it will cost you almost 20 billion, while buying a company that not only does not make any profit but making losses at the very same time.&lt;/p&gt;
+
+&lt;p&gt;So, is buying product A justified? Why do people buying it? Also, when should you buy product A and not buying it? To understand this, we will need to look at technical analysis.&lt;/p&gt;
+
+&lt;h2 id=&quot;technical-analysis&quot;&gt;Technical Analysis&lt;/h2&gt;
+
+&lt;blockquote&gt;Technical analysis is a trading discipline employed to evaluate investments and identify trading opportunities by analyzing statistical trends gathered from trading activity, such as price movement and volume.&lt;/blockquote&gt;
+
+&lt;p&gt;To put it in a simple word, technical analysis analyzes the trends and earning money by either following against the trends. The trends can be understood with metrics such as moving average, relative strength index, support and resistance, fibonacci, etc. All of these methods are created to do only one thing, which is to generate buy signal when most people start buying it and to sell when most people start selling it, hence earning profit from it.&lt;/p&gt;
+
+&lt;p&gt;So, back to the product A and product B, using technical analysis, it will be better to buy product A than product B, because there are more people looking at the wallet, which makes it easier to sell, and 15 people actively wanting to buy it. While what is cheap in fundamental analysis is the cost in relation to the intrinsic value, what is cheap in technical analysis is its cost in relation to future higher cost.&lt;/p&gt;
+
+&lt;p&gt;To follow the trend is to follow when people start actively wanting it, which is when 15 people actively wanting it. Suppose you stay there 30 minutes, and the number of people wanting to bid drop to 5, while the price had inflated to RM500, this indicates you should stop following the trend and goes against the trend, hence making money out of the investment instrument.&lt;/p&gt;
+
+&lt;p&gt;Back to Snap, suppose you had heard Snap IPO news, and you had following other similar tech company IPO, and you know that it is going to soar a lot in the first trading day, following technical analysis, the wise thing to do is to apply for IPO stock. Of course, you will need to know the technique to exit. The best exit point can be in a few days, few weeks or few months, depending on the sentiment surround the company and the momentum of the trend.&lt;/p&gt;
+
+&lt;h2 id=&quot;similarities&quot;&gt;Similarities&lt;/h2&gt;
+
+&lt;p&gt;They are different, very different. While one suggest buying product A, another suggest to buy product B. However, they do have similarities, which is to gain profit.&lt;/p&gt;
+
+&lt;p&gt;Practicing value investing will require you to have patience and ability to uncover intrinsic value in order to gain profit. As long as a proper method of evaluating intrinsic value are used, patience is the only thing it takes before other people realizing the intrinsic value of the same company and raise in value.&lt;/p&gt;
+
+&lt;p&gt;Technical analysis, on the other hand, would require skills in evaluating the trends of an instrument, entering and exiting the trade as he sees fit, in order to gain in profit. Patience is not needed, because technical analysis is short-term, and short-term is more of a voting machine than a weighing machine.&lt;/p&gt;
+
+&lt;p&gt;By nature, fundamental analysis, depending on the method of approaches, may require as much as reading news every single day, to as little as reading only the quarterly report once every 3 months. This is all to uncover the potential intrinsic value of a company and making sure the company does not drop in intrinsic value.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, technical analysis, depending on time frame, would require monitoring the whole trading day (day trading) to once per every few days (time frame of few months). This is to make sure that one does not miss the right timing to enter or exit the trade and hence making a profit out of it.&lt;/p&gt;
+
+&lt;h2 id=&quot;which-to-choose&quot;&gt;Which to choose&lt;/h2&gt;
+
+&lt;p&gt;There are people who always argue about technical analysis is much better than fundamental analysis, for the reason that it can earn more profit in a short time. However, in my very own opinion, it depends.&lt;/p&gt;
+
+&lt;p&gt;If you are the type of people who are very enthusiastic about earning money and willing to spend a lot of time to monitor your investment instrument, then the technical analysis is the way to go. However, if you just want to grow your money passively, and do not want to care about it, fundamental analysis is surely more suitable for you.&lt;/p&gt;
+
+&lt;p&gt;In investing, what’s right is what makes money, and what’s not right is what doesn’t makes money. If you had chosen the method you prefer, then you have to be consistent in order to make money. But, this does not mean that you cannot have a strategy that is the mix of both. You can have a strategy that uses technical analysis when you are buying and selling and uses fundamental analysis to choose what you want to buy and when you should sell (when the intrinsic value no longer matches the price). Meanwhile, this can generate extra bucks for every single investment, if this is your strategy, then you should stick to it, and not selling it days after buying just because it rose slightly in value.&lt;/p&gt;
+
+&lt;p&gt;So, just look at both, see which are more suitable for you and once you had decided, stick to it, meanwhile learn more about it. Consistency, after all, is what let all those successful investor or trader makes money, not choosing it depending on your mood at that time.&lt;/p&gt;</content><author><name></name></author><summary type="html">Choosing between fundamental or technical analysis</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/post/2018-10/stock-market.jpeg" /></entry><entry><title type="html">[Movie] Mr. Nobody: Choices</title><link href="/blog/mr-nobody-choices/" rel="alternate" type="text/html" title="[Movie] Mr. Nobody: Choices" /><published>2018-09-08T00:00:00+08:00</published><updated>2018-09-08T00:00:00+08:00</updated><id>/blog/mr-nobody-choices</id><content type="html" xml:base="/blog/mr-nobody-choices/">&lt;p&gt;Let me start this blog by asking a question:&lt;/p&gt;
 
 &lt;blockquote&gt;Is spending your time reading this blog a right choice?&lt;/blockquote&gt;
 
@@ -60,7 +155,7 @@ Nemo Nobody: Each of these lives is the right one! Every path is the right path.
 
 &lt;blockquote&gt;&quot;At my age the candles cost more than the cake. I'm not afraid of dying. I'm afraid I haven't been alive enough. It should be written on every school room blackboard: Life is a playground - or nothing.&quot; — Nemo Nobody&lt;/blockquote&gt;
 
-&lt;p&gt;Lastly, nothing matters. Life is a playground, and if it is meaningful to you, it is all that matters.&lt;/p&gt;</content><author><name></name></author><summary type="html">Everything could've been anything else</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/images/post/2018-09/mr-nobody-laugh.png" /></entry><entry><title type="html">[Game] Saya no Uta: Aesthetic</title><link href="http://0.0.0.0:4000/blog/game-saya-no-uta-aesthetic/" rel="alternate" type="text/html" title="[Game] Saya no Uta: Aesthetic" /><published>2018-08-18T00:00:00+08:00</published><updated>2018-08-18T00:00:00+08:00</updated><id>http://0.0.0.0:4000/blog/game-saya-no-uta-aesthetic</id><content type="html" xml:base="http://0.0.0.0:4000/blog/game-saya-no-uta-aesthetic/">&lt;p&gt;In the last post, we had already discussed one of the works of Gen Urobuchi: Fate Zero. Today, we are going to discuss yet another work of Gen Urobuchi, which is Saya no Uta.&lt;/p&gt;
+&lt;p&gt;Lastly, nothing matters. Life is a playground, and if it is meaningful to you, it is all that matters.&lt;/p&gt;</content><author><name></name></author><summary type="html">Everything could've been anything else</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/post/2018-09/mr-nobody-laugh.png" /></entry><entry><title type="html">[Game] Saya no Uta: Aesthetic</title><link href="/blog/game-saya-no-uta-aesthetic/" rel="alternate" type="text/html" title="[Game] Saya no Uta: Aesthetic" /><published>2018-08-18T00:00:00+08:00</published><updated>2018-08-18T00:00:00+08:00</updated><id>/blog/game-saya-no-uta-aesthetic</id><content type="html" xml:base="/blog/game-saya-no-uta-aesthetic/">&lt;p&gt;In the last post, we had already discussed one of the works of Gen Urobuchi: Fate Zero. Today, we are going to discuss yet another work of Gen Urobuchi, which is Saya no Uta.&lt;/p&gt;
 
 &lt;p&gt;Saya no Uta is a visual novel, written by Gen Urobuchi, released in 2003. It is later translated to English in 2009. Saya no Uta is one of the signature work of Gen Urobuchi, besides Psycho-Pass, Madoka Magica, and Fate Zero.&lt;/p&gt;
 
@@ -94,7 +189,7 @@ Back to the curry and shit, imagine you had the same cognitive disorder. You see
 
 &lt;p&gt;This is the question that presented to us in this game. How will we act under such circumstances? Will we suicide, or will we go for whatever pleasurable to our senses, or will we stick to the objective aesthetic sense of the object?&lt;/p&gt;
 
-&lt;p&gt;You might have the answer, but I do not. However, we do not live in such a world, so what matter? Whatever choice you choose, if it is true for you, then it must be true, because the one who is making the choice is you, not me.&lt;/p&gt;</content><author><name></name></author><summary type="html">Regarding to aesthetic - objective or subjective?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/images/post/2018-08/saya_no_uta.jpg" /></entry><entry><title type="html">[Anime] Fate/Zero: Emiya Kiritsugu</title><link href="http://0.0.0.0:4000/blog/anime-fate-zero-kiritsugu/" rel="alternate" type="text/html" title="[Anime] Fate/Zero: Emiya Kiritsugu" /><published>2018-08-06T00:00:00+08:00</published><updated>2018-08-06T00:00:00+08:00</updated><id>http://0.0.0.0:4000/blog/anime-fate-zero-kiritsugu</id><content type="html" xml:base="http://0.0.0.0:4000/blog/anime-fate-zero-kiritsugu/">&lt;p&gt;I had finished this anime a few weeks ago. This is my second time watching this anime, the first during a few years ago. The plot written by Gen Urobuchi, animation animated by Ufotable, the song by Kalafina and composed by Yuki Kajiura, and everything else combined, is what makes this anime so great.&lt;/p&gt;
+&lt;p&gt;You might have the answer, but I do not. However, we do not live in such a world, so what matter? Whatever choice you choose, if it is true for you, then it must be true, because the one who is making the choice is you, not me.&lt;/p&gt;</content><author><name></name></author><summary type="html">Regarding to aesthetic - objective or subjective?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/post/2018-08/saya-no-uta.jpg" /></entry><entry><title type="html">[Anime] Fate/Zero: Emiya Kiritsugu</title><link href="/blog/anime-fate-zero-kiritsugu/" rel="alternate" type="text/html" title="[Anime] Fate/Zero: Emiya Kiritsugu" /><published>2018-08-06T00:00:00+08:00</published><updated>2018-08-06T00:00:00+08:00</updated><id>/blog/anime-fate-zero-kiritsugu</id><content type="html" xml:base="/blog/anime-fate-zero-kiritsugu/">&lt;p&gt;I had finished this anime a few weeks ago. This is my second time watching this anime, the first during a few years ago. The plot written by Gen Urobuchi, animation animated by Ufotable, the song by Kalafina and composed by Yuki Kajiura, and everything else combined, is what makes this anime so great.&lt;/p&gt;
 
 &lt;p&gt;After finishing the anime, I knew that I have to write a blog about the character, Emiya Kiritsugu. He is, in my opinion, the most correct, yet the most flawed character in the anime. He is also one of the most deeply constructed characters in the anime.&lt;/p&gt;
 
@@ -110,19 +205,19 @@ Back to the curry and shit, imagine you had the same cognitive disorder. You see
 
 &lt;p&gt;Your father had just moved to a new village. You make a few new friends. There are one within them, who are the opposite sex of yours and have a special place in your heart. You had a crush on her, and her existence is like a heavenly angel to you.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/post/2018-08/stay_with_you_until_then.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/post/2018-08/stay-with-you-until-then.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Seemingly, your future looks super bright. You are going to continue your father research, and the result of the research is going to bring tremendous blessed to humanity. You also had the crush of yours, telling you that, she is going to watch you grew up. Everything seems good, not until the day, the day on which you woke up, being told by your father, not to go to the village.&lt;/p&gt;
 
 &lt;h3 id=&quot;it-wasnt-suppose-to-be-like-this&quot;&gt;It wasn’t suppose to be like this&lt;/h3&gt;
 
-&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/post/2018-08/shirley_zombie.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/post/2018-08/shirley-zombie.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;It is this day, which you found your crush, turning into a zombie, after consuming a drug produced by your father research, which supposedly brings nothing but blessed to humanity. Isn’t your father research supposedly bring blessing to humanity? Why is your crush turning into a zombie? Wasn’t she supposed to stay with you until you grew up?&lt;/p&gt;
 
 &lt;p&gt;In the midst of confusion, you run to the church and look for the priest. In the meantime, your crush had the zombie virus spread to the other villager. In a matter of seconds, the village is destroyed by the mage association and church executor. Fire burning all around the village.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/post/2018-08/burning_village.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/post/2018-08/burning-village.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;The ground which had your footstep on it, the coconut tree which you used to climb, the riverside which where your memory of you and your friend comes from, the church which you go to when you have trouble, and the tiny house, a few houses left to the church, right beside the coconut tree, where your crush used to live, had all turn into nothing.&lt;/p&gt;
 
@@ -136,7 +231,7 @@ Back to the curry and shit, imagine you had the same cognitive disorder. You see
 
 &lt;p&gt;You work very hard, killing the people who are like your father, uses magic to bring harm to people. You keep doing it, believing that, by following this path, you can avoid all the tragedies that happen to you.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/post/2018-08/kiritsugu_shooting.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/post/2018-08/kiritsugu-shooting.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Soon, you realize, that type of people can be seen everywhere. The path that you follow,  can only do so little, and not more than that. Following your path, you also end up killing your mother (the freelancer of mage association), knowing that it is the correct thing to do, in order to avoid bringing misery to the people in the airport she is landing.&lt;/p&gt;
 
@@ -194,7 +289,7 @@ Back to the curry and shit, imagine you had the same cognitive disorder. You see
 	Grail: &quot;The deed you try so hard to accomplish and fail to do on your own, can be accomplished in a scale beyond the power of any man. If that is not a miracle, what is?&quot;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/post/2018-08/kiritsugu_despair.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/post/2018-08/kiritsugu-despair.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;At this moment, you realize the grail is not omnipotent wish granting machine, and it is no miracle. You reject the grail simply because the cost is bigger than the reward. It is also at this moment, you realize, what you had been doing is flawed. The calculation is correct, except it is wrong. To save 200 people, you had sacrifice 300 people.&lt;/p&gt;
 
@@ -256,7 +351,7 @@ Back to the curry and shit, imagine you had the same cognitive disorder. You see
 
 &lt;p&gt;This is the contradiction appear within Gen Urobuchi. As much as he thinks it is correct, he too, think it is wrong. Accepting utilitarianism, is to accept the good intention of them to do good to the greatest number of people in the first place. Adopting utilitarianism, however, would result in nothing but misery to one who adopts it. Your inaction that causes by your emotion, is nothing but the origin of the good intention of one.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/post/2018-08/illya_pointed_with_gun.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/post/2018-08/illya-pointed-with-gun.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;The child, 6 years old, female, long hair, big eyes, sitting anxiously in front of you, waiting for you, who holding a 15cm long knife, to stab the knife into the soft stomach of her, pulling it out, hearing her screaming, and stabbing it again, into the other part of the stomach, again pulling it out, and watching the blood coming out from the eye and mouth of her, soon losing any energy to scream anymore, and struggle on the floor for other minutes before dying.&lt;/p&gt;
 
@@ -274,7 +369,7 @@ Back to the curry and shit, imagine you had the same cognitive disorder. You see
 
 &lt;p&gt;Truly, I do not expect it to turn out to be so positive. I expect this to turn out to be immense depressing and misery. If someone would be had told me that this would turn out to be positive, I would not believe him. Now, I have more hope than at any time in my life could ever have. Like Madoka, if anyone tells me it’s a mistake to have hope, I too, will tell him that he is wrong, every single time. Shall us wish ourselves to shine brightly in our life.&lt;/p&gt;
 
-&lt;p&gt;So, see you in the next post.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hey, Kerry. What do you want to be when you grow up?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/images/post/2018-08/kerry_shirley.png" /></entry><entry><title type="html">[Book] 1984: Thought and Mind</title><link href="http://0.0.0.0:4000/blog/book-1984-thought-and-mind/" rel="alternate" type="text/html" title="[Book] 1984: Thought and Mind" /><published>2018-07-10T00:00:00+08:00</published><updated>2018-07-10T00:00:00+08:00</updated><id>http://0.0.0.0:4000/blog/book-1984-thought-and-mind</id><content type="html" xml:base="http://0.0.0.0:4000/blog/book-1984-thought-and-mind/">&lt;p&gt;Few day ago, I had written a 1984 analysis on social construct. Before start writing about the analysis, I had drafted out a few more point. However, as I start writing about social construct, I just can’t stop and it turn out to be a stand alone blog. So, this blog will be the analysis of the rest of the point that I had drafted initially.&lt;/p&gt;
+&lt;p&gt;So, see you in the next post.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hey, Kerry. What do you want to be when you grow up?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/post/2018-08/kerry-shirley.png" /></entry><entry><title type="html">[Book] 1984: Thought and Mind</title><link href="/blog/book-1984-thought-and-mind/" rel="alternate" type="text/html" title="[Book] 1984: Thought and Mind" /><published>2018-07-10T00:00:00+08:00</published><updated>2018-07-10T00:00:00+08:00</updated><id>/blog/book-1984-thought-and-mind</id><content type="html" xml:base="/blog/book-1984-thought-and-mind/">&lt;p&gt;Few day ago, I had written a 1984 analysis on social construct. Before start writing about the analysis, I had drafted out a few more point. However, as I start writing about social construct, I just can’t stop and it turn out to be a stand alone blog. So, this blog will be the analysis of the rest of the point that I had drafted initially.&lt;/p&gt;
 
 &lt;p&gt;Before we start the rest of the analysis, I will give a quick rundown of the book in case you had forget about the plot of the book.&lt;/p&gt;
 
@@ -422,7 +517,7 @@ Back to the curry and shit, imagine you had the same cognitive disorder. You see
 
 &lt;p&gt;Conclusion, we had discuss various ideas in this blog, include thought versus deed, doublethink, relativism, idealism, how language affect our thought and collectivism. We see how all of this is being used in totalitarian government to remain their power.&lt;/p&gt;
 
-&lt;p&gt;Finally, the questions to ask ourselves is, should communism and socialism be practice? To answer this question, ask ourselves, what is the role of government? What happen if government do not exists? If government do not exists, what kind of government do we want? Is communism or socialism that bad? Is democracy as good as what most people claim it to be? How can we further improve the government system that we have in today, to better achieve the role of the government that we had answer ourselves previously? Lastly, how can we avoid from what being potrayed in the book?&lt;/p&gt;</content><author><name></name></author><summary type="html">Two plus two equals five</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/images/post/2018-07/mind.jpg" /></entry><entry><title type="html">[Book] 1984: Social Construct</title><link href="http://0.0.0.0:4000/blog/book-1984-social-construct/" rel="alternate" type="text/html" title="[Book] 1984: Social Construct" /><published>2018-07-07T00:00:00+08:00</published><updated>2018-07-07T00:00:00+08:00</updated><id>http://0.0.0.0:4000/blog/book-1984-social-construct</id><content type="html" xml:base="http://0.0.0.0:4000/blog/book-1984-social-construct/">&lt;p&gt;It’s been few weeks, perhaps months since I finish reading this book. It is one of the most facinating book that I had ever came across. I wanted to write an analysis about this book for quite some time, but had been occupied with a lot of things. Finally, I get to take a breath from all those things and decided to write this review.&lt;/p&gt;
+&lt;p&gt;Finally, the questions to ask ourselves is, should communism and socialism be practice? To answer this question, ask ourselves, what is the role of government? What happen if government do not exists? If government do not exists, what kind of government do we want? Is communism or socialism that bad? Is democracy as good as what most people claim it to be? How can we further improve the government system that we have in today, to better achieve the role of the government that we had answer ourselves previously? Lastly, how can we avoid from what being potrayed in the book?&lt;/p&gt;</content><author><name></name></author><summary type="html">Two plus two equals five</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/post/2018-07/mind.jpg" /></entry><entry><title type="html">[Book] 1984: Social Construct</title><link href="/blog/book-1984-social-construct/" rel="alternate" type="text/html" title="[Book] 1984: Social Construct" /><published>2018-07-07T00:00:00+08:00</published><updated>2018-07-07T00:00:00+08:00</updated><id>/blog/book-1984-social-construct</id><content type="html" xml:base="/blog/book-1984-social-construct/">&lt;p&gt;It’s been few weeks, perhaps months since I finish reading this book. It is one of the most facinating book that I had ever came across. I wanted to write an analysis about this book for quite some time, but had been occupied with a lot of things. Finally, I get to take a breath from all those things and decided to write this review.&lt;/p&gt;
 
 &lt;p&gt;1984 is one of the best selling classic fiction written by George Orwell, first published in 1949. In the novel, George Orwell discuss about a lot of facinating idea that would jusut blow off our mind, thinking that why we never thought of it before.&lt;/p&gt;
 
@@ -448,15 +543,15 @@ Back to the curry and shit, imagine you had the same cognitive disorder. You see
 
 &lt;p&gt;Does this class hierarchy sound familiar? Yes! The class hierarchy in Oceania resemblance the social status in the world that we are living in. In the world that we are living in, top 1% wealthiest of the population posses 40% of the wealth while bottom 80% posses only 7% of the wealth.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/post/2018-07/rich_lifestyle.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/post/2018-07/rich-lifestyle.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;The inner party resemblance the top wealthiest population in our world. They have access to the most luxurious lifestyle that most people can’t afford. They have the biggest house, most expensive luxury car, best quality food, etc. Some of them even have private yachts and helicopter. These inner party are some of the most wealthy and powerful people on earth. They are the politicians, top management of corporate, investor, etc. Most of the power are aggregate in these group of people, and their decision can affect a lot of people, including you without you knowing it.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/post/2018-07/middle_class.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/images/post/2018-07/middle-class.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Meanwhile, the outer party resemblance the middle class. The middle class has decent job with decent income, just like the outer party who working for the party in one of the ministry. While most of the middle class can afford material thing to a certain extend, they are often in debt. Because of it, they will automatically work hard in order to pay off their debt. While the outer party drive by the fear of getting capture by the ruling party, the middle class drive by the fear of losing the material thing that they posses. They are like the slave or prisoner of the material world.&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/post/2018-07/office_cubicles.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/images/post/2018-07/office-cubicles.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;The proletariant resemblance the lower income population. Most of them have job, but not good enough to afford extra luxury like top and middle class do. Majority of them cannot afford buying a house. Many of them rent house and drive old car or take public transport. They work from 9 to 5 every week day like a machine. If there are something that driving them forward, it would be the false hope that given to them. These false hope are social construct that are designed to distract them from wanting to escape from the reality. False hope such that able to becoming the top wealthy person by sacrificing a part of their little earning. False hope such that giving them the short term sensual pleasure so they are able to withstand the suffering. False hope such that helping them to escape from the reality. They come in a form of lottery ticket, gambling, football, alcohol, sex, etc. Eventually, they are like a hamster on a wheel that trap in a cage.&lt;/p&gt;
 
@@ -486,7 +581,7 @@ Back to the curry and shit, imagine you had the same cognitive disorder. You see
 
 &lt;blockquote&gt;&quot;He cannot rule himself will certainty be ruled by others&quot;- Friedrich Nietzsche&lt;/blockquote&gt;
 
-&lt;p&gt;This ultimate free being, would not only free from the nature of constraint that would bound on them, also free from the constraint of being in any social construct itself.&lt;/p&gt;</content><author><name></name></author><summary type="html">How similar social construct of 1984 is to ours</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/images/post/2018-07/1984.jpg" /></entry><entry><title type="html">[Opinion] Programming Exam???</title><link href="http://0.0.0.0:4000/blog/programming-exam/" rel="alternate" type="text/html" title="[Opinion] Programming Exam???" /><published>2018-05-31T00:00:00+08:00</published><updated>2018-05-31T00:00:00+08:00</updated><id>http://0.0.0.0:4000/blog/programming-exam</id><content type="html" xml:base="http://0.0.0.0:4000/blog/programming-exam/">&lt;h2 id=&quot;programming-exam&quot;&gt;Programming Exam&lt;/h2&gt;
+&lt;p&gt;This ultimate free being, would not only free from the nature of constraint that would bound on them, also free from the constraint of being in any social construct itself.&lt;/p&gt;</content><author><name></name></author><summary type="html">How similar social construct of 1984 is to ours</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/post/2018-07/1984.jpg" /></entry><entry><title type="html">[Opinion] Programming Exam???</title><link href="/blog/programming-exam/" rel="alternate" type="text/html" title="[Opinion] Programming Exam???" /><published>2018-05-31T00:00:00+08:00</published><updated>2018-05-31T00:00:00+08:00</updated><id>/blog/programming-exam</id><content type="html" xml:base="/blog/programming-exam/">&lt;h2 id=&quot;programming-exam&quot;&gt;Programming Exam&lt;/h2&gt;
 
 &lt;p&gt;If you are a computer science or related field student, most likely you had came across programming exam that are closed book. On top of that, you are required to write you answer on paper instead of typing it into computer.&lt;/p&gt;
 
@@ -532,4 +627,4 @@ Back to the curry and shit, imagine you had the same cognitive disorder. You see
 
 &lt;p&gt;In real world, we are able to search for information when face with problem. However, exam does not allow that, Moreover, it promote the use of memorizing than understanding. Therefore, it create a gap between education system and workforce.&lt;/p&gt;
 
-&lt;p&gt;Hence, we should be allowed to make reference to reference material during the exam, and hence promote searching and understanding skills over memorizing.&lt;/p&gt;</content><author><name></name></author><summary type="html">Things that gone wrong for most programming exam</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/images/post/2018-05/programming.jpg" /></entry></feed>
+&lt;p&gt;Hence, we should be allowed to make reference to reference material during the exam, and hence promote searching and understanding skills over memorizing.&lt;/p&gt;</content><author><name></name></author><summary type="html">Things that gone wrong for most programming exam</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/post/2018-05/programming.jpg" /></entry></feed>
