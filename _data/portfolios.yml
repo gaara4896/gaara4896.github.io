@@ -16,7 +16,7 @@
 - name: PyGame Workshop
   description: Teaching material for PyGame workshop
   image_url: /images/portfolio/pygame_workshop.png
-  source: https://github.com/gaara4896/GameWorkshop-PyGame
+  source_url: https://github.com/gaara4896/GameWorkshop-PyGame
 
 - name: Makerspace Traffic Counter
   description: Tracking traffic information
