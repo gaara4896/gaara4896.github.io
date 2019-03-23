@@ -2,7 +2,7 @@
 layout: post
 title:  "[Anime] Murder vs Slaughter"
 date:   2019-03-16
-excerpt: "From distinction of word to moral perception"
+excerpt: "From distinction of words to moral perception"
 image: "/images/post/2019-03/murder.jpg"
 ---
 
