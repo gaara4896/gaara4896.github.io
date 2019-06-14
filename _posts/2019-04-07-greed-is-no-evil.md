@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Opinion] Greed as human vices"
+title:  "[Opinion] Greed as human vice"
 date:   2019-04-07
 excerpt: "Is greed actually a vice of human behavior?"
 image: "/images/post/2019-03/greed.jpg"
